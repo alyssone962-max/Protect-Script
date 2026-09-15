@@ -1,3 +1,5 @@
-protecao-script
-whitelist-roblox
-meu-script-protegido
+{
+  "allowed_users": [
+    "CJ1DORP",
+  ]
+}
